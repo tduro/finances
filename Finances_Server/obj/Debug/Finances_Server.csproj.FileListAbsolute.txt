@@ -1,0 +1,11 @@
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\Finances_Server.dll.config
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\Finances_Server.dll
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\Finances_Server.pdb
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\EntityFramework.dll
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\EntityFramework.xml
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\obj\Debug\Finances_Server.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\obj\Debug\Finances_Server.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\obj\Debug\Finances_Server.dll
+C:\Users\Tiago\Documents\GitHub\Finances\Finances_Server\obj\Debug\Finances_Server.pdb

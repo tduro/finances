@@ -1,0 +1,5 @@
+C:\Users\Tiago\Documents\GitHub\Finances_Database\bin\Debug\Finances_Database.dacpac
+C:\Users\Tiago\Documents\GitHub\Finances_Database\bin\Debug\Finances_Database.dll
+C:\Users\Tiago\Documents\GitHub\Finances_Database\bin\Debug\Finances_Database.pdb
+C:\Users\Tiago\Documents\GitHub\Finances_Database\obj\Debug\Finances_Database.dll
+C:\Users\Tiago\Documents\GitHub\Finances_Database\obj\Debug\Finances_Database.pdb

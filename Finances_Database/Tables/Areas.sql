@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Areas]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+	[Description] NVARCHAR(50) NOT NULL, 
+	[Observations] NVARCHAR(250) NULL
+)
